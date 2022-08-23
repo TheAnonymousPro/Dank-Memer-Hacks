@@ -1,0 +1,4 @@
+termcolor==1.1.0
+colorama==0.4.4
+pynput==1.7.3
+pywin32==300 # Only required for Windows
